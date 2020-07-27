@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+
+cmd/main
+cmd/typhoon
+demo/

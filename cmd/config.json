@@ -1,0 +1,19 @@
+{
+    "Target": "http://localhost:8080",
+    "NumCPU": 0,
+    "NumThread": 10,
+    "Duration": "1s",
+    "Method": "GET",
+    "Header": {
+        "key" : "value"
+    },
+    "Cookie": "",
+    "UserAgent": "",
+    "BodyFile": "",
+    "DisableCompression": false,
+    "KeepAlive": true,
+    "SkipTLSVerify": false,
+    "ServerCertFile": "",
+    "ClientCertFile": "",
+    "ClientKeyFile": ""
+  }
